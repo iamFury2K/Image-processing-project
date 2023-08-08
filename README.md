@@ -35,4 +35,7 @@ The following image processing techniques are demonstrated in the script:
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 - Matplotlib (`pip install matplotlib`)
-- 
+## Demo Images
+![output](https://github.com/iamFury2K/Image-processing-project/assets/73428754/b30b8735-0dbe-40cf-aabb-fcb965153a67)
+![output1](https://github.com/iamFury2K/Image-processing-project/assets/73428754/8ba17e70-cc2b-4122-8184-6811f570c86a)
+![output3](https://github.com/iamFury2K/Image-processing-project/assets/73428754/fc632b9e-6b53-4d4e-b70c-b4c9de773117)
